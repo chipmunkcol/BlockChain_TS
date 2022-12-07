@@ -3,11 +3,9 @@
 
 </br>
 
-## Index
-
 1. TS 기본문법
 2. 그동안 모르고 썼던 compilerOptions 톱아보기
-    - "target": "Es6", 
+    - "target": "ES6", 
     - "lib": ["ES6", "DOM"],
     - "strict": true 
 3. 역시 모르고 썼던 modules 톱아보기
